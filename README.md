@@ -10,3 +10,9 @@ We recommend to use the Anaconda Environment with the following package versions
 3. Numpy 1.24.1
 
 You can use tensorflow GPU if desired, but we tested that the model works perfectly in tensorflow CPU.
+
+Here we present the training process:
+![alt text](https://github.com/erickherreraresearch/DeepBrucell/blob/main/images/training.JPG)
+
+And the achieved performance metrics:
+![alt text](https://github.com/erickherreraresearch/DeepBrucell/blob/main/images/performance.JPG)
